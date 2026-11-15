@@ -35,3 +35,40 @@ Parte interna de una aplicación que se encarga de procesar información y gesti
 6. Servidor web
 
 Sistema que recibe peticiones de los usuarios y entrega el contenido de una página web.
+
+
+ 
+7. Base de datos
+
+Sistema que permite almacenar, organizar y consultar información.
+
+
+
+8. API REST
+
+Interfaz que permite la comunicación entre diferentes aplicaciones mediante peticiones HTTP.
+
+
+
+9. Framework
+
+Conjunto de herramientas y estructuras que facilita el desarrollo de aplicaciones.
+
+
+
+10. Git
+
+Sistema de control de versiones que permite guardar y gestionar los cambios de un proyecto.
+
+
+
+11. GitHub
+
+Plataforma que permite alojar repositorios Git y trabajar con proyectos de forma colaborativa.
+
+
+
+12. Commit
+
+Registro que guarda un conjunto de cambios realizados en un repositorio.
+
