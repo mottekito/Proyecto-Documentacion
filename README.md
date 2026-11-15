@@ -18,6 +18,17 @@ Frontend
 - [JavaScript moderno](frontend/javascript-moderno.md)
 - [Frameworks web](frontend/frameworks.md)
 
+
+
+Backend
+
+- [Servidores web](backend/servidores.md)
+- [Bases de datos](backend/bases-de-datos.md)
+- [APIs REST](backend/apis-rest.md)
+- [Seguridad web](backend/seguridad.md)
+
+
+
 *Contribuciones*
 
 Este proyecto se ha realizado como práctica de Git y GitHub. Se pueden proponer mejoras y añadir nuevos contenidos mediante ramas independientes.
