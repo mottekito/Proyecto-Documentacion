@@ -1,5 +1,6 @@
 GUÍA COMPLETA DE DESARROLLO WEB
-Esta guía reúne información sobre el desarrollo web, sus tecnologías y las herramientas necesarias para crear páginas y aplicaciones.
+
+Esta guía reúne información y recursos sobre el desarrollo web, sus tecnologías y las herramientas necesarias para crear páginas y aplicaciones.
 
 **Autor:** Odín López Suárez
 **Fecha:** 12 de noviembre de 2026
