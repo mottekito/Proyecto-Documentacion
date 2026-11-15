@@ -1,6 +1,5 @@
 GUÍA COMPLETA DE DESARROLLO WEB
-
-Este proyecto contiene una documentacion del desarrollo web, Se explicarán conceptos principales, las tecnologías usadas y las herramientas necesarias para crear apps t `´aginas web. La documentación está organizada en diferentes apartados en frontend y backend
+Esta guía reúne información sobre el desarrollo web, sus tecnologías y las herramientas necesarias para crear páginas y aplicaciones.
 
 **Autor:** Odín López Suárez
 **Fecha:** 12 de noviembre de 2026
@@ -17,3 +16,7 @@ Frontend
 - [CSS avanzado](frontend/css-avanzado.md)
 - [JavaScript moderno](frontend/javascript-moderno.md)
 - [Frameworks web](frontend/frameworks.md)
+
+*Contribuciones*
+
+Este proyecto se ha realizado como práctica de Git y GitHub. Se pueden proponer mejoras y añadir nuevos contenidos mediante ramas independientes.
